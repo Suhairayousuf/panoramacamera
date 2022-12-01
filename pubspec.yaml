@@ -40,6 +40,7 @@ dependencies:
   arkit_plugin:
   vector_math:
   panorama: ^0.4.1
+  camera_camera:
   camera: ^0.10.0+4
   video_player:
   path_provider:
